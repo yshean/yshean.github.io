@@ -19,3 +19,12 @@ Oh, and here's a great quote from this Wikipedia on
 > firm-textured, round yolk that is bright orange-red in color.
 
 ![Chinese Salty Egg](./salty_egg.jpg)
+
+```jsx{1}
+const count = 42;
+// ...
+const App = () => {
+  return <p>You clicked {count} times</p>;
+};
+// ...
+```
