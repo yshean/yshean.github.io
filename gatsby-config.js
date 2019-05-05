@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `YShean Developer Log`,
+    title: `YShean Dev Log`,
     author: `Yong Shean`,
     description: `Built with <3 and GatsbyJS.`,
     siteUrl: `https://yshean.github.io/`,
@@ -57,7 +57,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `YShean Developer Blog`,
+        name: `YShean Dev Log`,
         short_name: `YShean`,
         start_url: `/`,
         background_color: `#ffffff`,
