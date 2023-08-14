@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.virtusan.application.dev",
+    "sha256_cert_fingerprints":
+    ["32:F7:C4:53:82:2E:0C:6C:C4:0A:6A:64:A2:E0:94:40:A8:09:7C:0A:FF:07:B0:4E:09:2D:29:57:C0:77:6E:0E"]
+  }
+}]
